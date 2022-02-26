@@ -1,0 +1,29 @@
+
+h2 {
+    color:rgb(17, 0, 255);
+    font-family:'Gill Sans';
+}
+
+p {
+    color: black;
+    border: 2px;
+    margin: 10px;
+}
+
+body {
+    background-color:white;
+}
+
+p4 {
+    border: 5in;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+p3.Test {
+    color: rgb(108, 39, 219);
+}
+
+#hi {
+    color:gold;
+}
