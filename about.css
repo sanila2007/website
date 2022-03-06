@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+
+h1 {
+    font-family:sans-serif;
+    text-align:center;
+
+}
+
+.sub-heading {
+    font-family:Franklin Gothic Medium;
+    font-size:20px;
+    text-align:center;
+}
+
+.Assistant-Bot {
+    text-align:center;
+    font-weight:bolder;
+    
+}
+
+.feature-content {
+    width:730px;
+    height:700px;
+    background-color:antiquewhite;
+    background-size:cover;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: left;
+    float:right;
+    
+}
+
+
+
+.assistant-des {
+    text-align:center;
+    font-family:calibri;
+    height:20px;
+
+}
+
+.image1 {
+    float:initial;
+    width:30%;
+    height:30%;
+    border-radius:50px;
+    padding-right:auto;
+    padding-left:auto;
+    
+}
+
+.left-side-assistant {
+    width:730px;
+    height:700px;
+    background-color:rgb(116, 206, 194);
+    background-size:cover;
+    margin-right:auto;
+    float:left;
+
+}
+
+
+
+.left-text {
+    text-align: left;
+}
+
+
+.heading {
+    background-color:darkkhaki;
+    width:1500px;
+    height:100px;
+    padding: 10px;
+    background-size:cover;
+    padding-top:20px;
+    padding-bottom:40px;
+
+}
+
+.image2 {
+    width:30%;
+    height:30%;
+    float:initial;
+    border-radius:50px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.feature-name {
+    padding-top:10px;
+    font-family:Source Code Pro;
+    font-weight:bolder;
+    font-weight:bolder;
+    text-align:center;
+}
+
+
+.sanila-heading {
+    font-family:Source Code Pro;
+    font-weight:bolder;
+    font-weight:bolder;
+}
+
+.simple-des {
+    font-size:20px;
+    font-family:Source Code Pro;
+    font-weight:bolder;
+    font-weight:bolder;
+}
+
+.encryption-content {
+    background-color:aquamarine;
+    width:730px;
+    height:700px;
+    margin-left:14px;
+    margin-right:auto;
+    float:left;
+    background-size:cover;
+    margin-top: 40px;
+
+}
+
+.source-content {
+    width:730px;
+    height:700px;
+    background-color:lightblue;
+    margin-left:auto;
+    margin-right:auto;
+    background-size:cover;
+    text-align:left;
+    float:right;
+    margin-top:40px; 
+}
+
+.encrypt-heading {
+    font-family:Source Code Pro;
+    text-align:center;
+    font-weight:bolder;
+    font-weight:bolder;
+    padding-top:30px;
+}
+
+.encrypt-image {
+    float:initial;
+    width:30%;
+    height:30%;
+    border-radius:50px;
+    padding-right:auto;
+    padding-left:auto;
+}
+
+
+.feature-content2 {
+    margin-top:40px;
+}
+
+.source-content-heading {
+    font-family:Source Code Pro;
+    text-align:center;
+    font-weight:bolder;
+    font-weight:bolder;
+    padding-top:30px;
+}
