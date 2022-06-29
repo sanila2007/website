@@ -58,3 +58,20 @@ year = 2022;
 
 result = year - my_age;
 console.log("I was born in "+result);
+
+// Modulas
+console.log("Modules heeeee "+ my_age % year)
+
+// Increment
+console.log(my_age++)
+console.log("Post increment of my age"+my_age)
+
+console.log(++my_age)
+console.log("Pre increment of my age "+my_age)
+
+// Decrement
+console.log(--my_age)
+console.log("Pre decrement of my age "+my_age)
+
+console.log(my_age++)
+console.log("Post decrement of my age "+my_age)
